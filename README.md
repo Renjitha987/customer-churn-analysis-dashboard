@@ -32,5 +32,10 @@ This project analyzes customer churn data for a telecommunications company using
 - Dashboard Screenshots
 - Dataset
 
+<img width="1507" height="696" alt="Image" src="https://github.com/user-attachments/assets/4a099688-3897-4595-bb58-8b0a7b116bc0" />
+
+
+<img width="1508" height="731" alt="Image" src="https://github.com/user-attachments/assets/128b069b-3b65-4da4-8483-49bb2a7426e7" />
+
 ## Author
 Renjitha V R
